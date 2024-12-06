@@ -1,4 +1,4 @@
-# jobseeking
+# chatting
 
 A new Flutter project.
 
